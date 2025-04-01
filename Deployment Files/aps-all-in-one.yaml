@@ -522,7 +522,7 @@ spec:
               value: ""
             - name: AZURE_OPENAI_ENDPOINT # required if using Azure OpenAI
               value: ""
-            - name: AZURE_OPENAI_DALLE_ENDPOINT
+            - name: AZURE_OPENAI_DALLE_ENDPOINT #   required if using Azure OpenAI
               value: ""
             - name: AZURE_OPENAI_DALLE_DEPLOYMENT_NAME
               value: ""
